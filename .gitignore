@@ -1,0 +1,8 @@
+results/
+*.weights
+.idea/
+*.png
+__pycache__/
+**__pycache__/
+**.pyc
+yolo/utils/__pycache__/loader.cpython-36.pyc
