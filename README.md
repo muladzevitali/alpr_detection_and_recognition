@@ -27,8 +27,4 @@ You should place them into the folder yolo/wights/ folder.
 Install the requirements with 'pip install -r requirements.txt'
 Into the file alpr_detection.py change the value INPUT_IMAGE to the image path you want to run detection on.
 Then run 'python alpr_detection.py'
-
-
-scp -i server.pem -r Makefile build darknet src scripts obj darknet.py cfg ubuntu@ec2-3-120-159-143.eu-central-1.compute.amazonaws.com:/home/ubuntu/projects/darknet
-scp -i server.pem -r data/characters data/plates.names ubuntu@ec2-3-120-159-143.eu-central-1.compute.amazonaws.com:/home/ubuntu/projects/darknet/data
  
