@@ -23,7 +23,7 @@ idna==2.7
 imutils==0.5.1
 incremental==17.5.0
 ipykernel==5.0.0
-ipython==7.0.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==0.24
 jedi==0.13.1
